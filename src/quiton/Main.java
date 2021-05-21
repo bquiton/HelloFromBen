@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hello, my name is Ben. \n");
 
         System.out.println("Hello Ben, my name is Cade.");
+
+        System.out.println("Hello Ben, my name is Kisetsu.");
     }
 }
